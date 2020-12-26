@@ -17,3 +17,18 @@ Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
+![github](august peak hours.PNG)
+
+![github](average trip duration.PNG)
+
+![github](checkout times by genders.PNG)
+
+![github](checkout times for users.PNG)
+
+![github](gender breakdown.PNG)
+
+![github](trips by gender by weekday.PNG)
+
+![github](trips by weekday.PNG)
+
+![github](trips by gender (weekday per hour).PNG)
