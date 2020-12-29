@@ -47,3 +47,5 @@ Finally, you’ll add these new visualizations to our final presentation and ana
 
 * From the information provided by City bike in NYC we are able to get a great representation of what to expect when we roll out our bikes in Iowa.  This will help us set up a plan for when to have the most bikes available for riders, how many of our riders will be subscribers rather than single use riders, and even have an idea for how long a customer rides based off their age alone.
 * One thing we will need to keep in mind is that even though we are pulling data from NYC that does not mean it is going to line up with how ours will look in Des Moines.  We will need to keep in mind that NCY is set up for people to live without vehicles on a daily basis.  This will not be the same thing in Des Moines.  It will require us to continue to monitor the data once we are able to obtain it for our city.  From there we will be able to make the necessary adjustments. 
+
+https://public.tableau.com/profile/silas1034#!/vizhome/NCYCBAnalysisChallange/Story1?publish=yes
